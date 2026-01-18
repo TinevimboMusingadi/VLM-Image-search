@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+qwen3_vl_embedding.egg-info/PKG-INFO
+qwen3_vl_embedding.egg-info/SOURCES.txt
+qwen3_vl_embedding.egg-info/dependency_links.txt
+qwen3_vl_embedding.egg-info/requires.txt
+qwen3_vl_embedding.egg-info/top_level.txt
